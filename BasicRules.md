@@ -6,11 +6,11 @@ Wingfeather Adventures is a Tabletop Role Playing Game set in the world of Aerwi
 
 ### What is a Role Playing Game?
 
-A Role Playing Game (abbreviated RPG) is a type of game where players create characters and work together to tell a story with those characters. Generally, each player will create a single character, and design their personality, choose their abilities, and determine how they will act in different situations. One player, usually someone who has more experience with RPGs, will take on the special role of the Game Master or Storyteller. Their job is to guide the other players through the story, as well as creating all the other characters, allies, enemies, and the environment.
+A Role Playing Game (RPG) is a type of game where players create characters and work together to tell a story with those characters. Generally, each player will create a single character, and design their personality, choose their abilities, and determine how they will act in different situations. One player, usually someone who has more experience with RPGs, will take on the special role of the Game Master or Storyteller. Their job is to guide the other players through the story, as well as creating all the other characters, allies, enemies, and the environment.
 
 ### Playing the Game
 
-Playing the game is a lot like playing a game of make-believe, with a bit more structure to make sure things move smoothly and all the players are treated fairly. The game is played over several sessions, allowing time for the story to develop and for characters to find their motivations. As part of the first session, players will create their characters (described in `Creating Your Character`). These characters are called Player Characters. The storyteller will be in charge of all the other characters, called Non-Player Characters, or NPCs.
+Playing the game is a lot like playing a game of make-believe, with a bit more structure to make sure things move smoothly and all the players are treated fairly. The game is played over several sessions, allowing time for the story to develop and for characters to find their motivations. As part of the first session, players will create their characters (described in 'Creating Your Character'). These characters are called Player Characters. The storyteller will be in charge of all the other characters, called Non-Player Characters, or NPCs.
 
 Gameplay follows the following stages:
 
@@ -24,7 +24,7 @@ The rest of the rules in this book exist to help this gameplay cycle. In many si
 
 Wingfeather Adventures takes place in the world of Aerwiar. While you can play the game without reading the books, having the background of the books helps to create an understanding between players of how the world works. Many of the settings the characters will find themselves in could also spoil things for readers who haven’t finished the stories yet.
 
-## Player Characters
+## Characters
 
 A character is how a player interacts with the world. Characters can be created with a wide variety of skills, talents, and personality traits. Newer players may find it easier to create a character with a personality similar to their own, while more experienced players, or players that are more comfortable acting, may want to create a character with an entirely different personality from themselves.
 
@@ -38,54 +38,59 @@ The character sheet is used as a reference during gameplay to help the player ke
 
 ### Attributes
 
-Attributes are a description of your character’s baseline abilities. Each attribute has a number that describes how talented your character is in that area. Whenever the Storyteller asks you to roll dice to determine an outcome, this number will be added to the value you roll.
+Attributes are a description of your character’s baseline abilities. Each attribute has a number that describes how talented your character is in that area, called the attribute modifier.
 
-The four core attributes and their abbreviations are *Might (MI)*, *Agility (AG)*, *Wit (WI)*, and *Charm (CH)*.
+The four core attributes and their abbreviations are _Might (MI)_, _Agility (AG)_, _Wit (WI)_, and _Charm (CH)_.
 
-*Might* is a measurement of how strong your character is. A character with more Might will be able to carry more, hit harder when fighting, and endure more.
+_Might_ is a measurement of how strong your character is. A character with more Might will be able to carry more, hit harder when fighting, and endure more hits.
 
-*Agility* is a measurement of how fast and flexible your character is. A character with more Agility can run faster, climb more easily, and dodge attacks better.
+_Agility_ is a measurement of how fast and flexible your character is. A character with more Agility can run faster, climb more easily, and dodge attacks better.
 
-*Wit* is a measurement of your character’s intelligence. A character with more Wit is able to identify plants and animals, is more likely to notice hidden details or traps, and is better at solving puzzles.
+_Wit_ is a measurement of your character’s intelligence. A character with more Wit is able to identify plants and animals, is more likely to notice hidden details or traps, and is better at solving puzzles.
 
-*Charm* is a measurement of how well your character understands other people. A character with more Charm is better at inspiring their allies, is more likely to notice when someone is hiding something, and is better at disguising themselves.
+_Charm_ is a measurement of how well your character understands other people. A character with more Charm is better at inspiring their allies, is more likely to notice when someone is hiding something, and is better at disguising themselves.
 
-### Skills
+#### Making an Attribute Check
 
-Each attribute has a set of associated skills. Skills are more specific than attributes, and will only apply in certain situations. Each skill has a proficiency level, which is a measurement of how much your character has practiced that skill.
+If the Storyteller asks you to make an "Attribute Check," you'll roll 2 dice, add their values together, then add your attribute modifier. For example, Dougbert of the Boatery Guild has an _Agility_ modifier of **+3**, but a _Wit_ modifier of **-1**. As he's walking along a forest trail, the Storyteller asks him to make a _Wit_ check to see if he notices a trap. Dougbert rolls a **2** and a **5**, for a total of **6**. He doesn't notice the trap, and steps right on it! The Storyteller then asks him to make an _Agility_ check to see if he can dodge out of the way. He rolls a **3** and a **4**, for a total of 10! He's able to jump out under a falling log that would have crushed him flatter than a Digtoad's dinner.
 
-#### Might Skills
+### Abilities
 
-The skills associated with Might are *Carry*, *Demolish*, and *Melee Attack*.
+Each attribute has a set of associated skills. Skills are more specific than attributes, and will only apply in certain situations. The more your character uses an skill, the more practiced they become with it, giving better and more consistent results. This is called the skill level.
 
-The *Carry* skill is used to move heavy objects, push obstacles out of the way, or carry a wounded ally to safety.
+#### Might Abilities
 
-The *Demolish* skill is used to break down barriers, damage vehicles, or collapse a tunnel behind you to secure an escape.
+The skills associated with Might are _Haul_ and _Demolish_.
 
-The *Melee Attack* skill is used when fighting up close, using swords, clubs, or fists.
+The _Haul_ skill is used to move heavy objects, push obstacles out of the way, or carry a wounded ally to safety.
 
-#### Agility Skills
+The _Demolish_ skill is used to break down barriers, damage vehicles, or collapse a tunnel behind you to secure an escape.
 
-The skills associated with Agility are *Sneak*, *Acrobatics*, and *Ranged Attack*.
+#### Agility Abilities
 
-The *Sneak* skill is used to move quietly and stealthily without being noticed.
+The skills associated with Agility are _Sneak_ and _Acrobatics_.
 
-The *Acrobatics* skill is used for climbing, swinging from vines or lines on a ship, and other such feats worthy of the Florid Sword.
+The _Sneak_ skill is used to move quietly and stealthily without being noticed.
 
-The *Ranged Attack* skill is used when fighting with a ranged weapon, such as a bow, a blow-dart, or throwing a dagger.
+The _Acrobatics_ skill is used for climbing, swinging from vines or lines on a ship, and other such feats worthy of the Florid Sword.
 
-#### Wit Skills
+#### Wit Abilities
 
-The skills associated with Wit are *Remember*, *Search*, and *Ponder*.
+The skills associated with Wit are _Ponder_ and _Search_.
 
-The *Remember* skill helps your character recall information, either from earlier in their adventure or knowledge they have learned from books.
+The _Ponder_ skill helps your character recall information from books they have read, or think through a puzzle or problem.
 
-The *Search* skill is used to find or detect things, such as traps, secret passages, or to find edible food or follow tracks in the wilderness.
+The _Search_ skill is used to find or detect things, such as traps, secret passages, or to find edible food or follow tracks in the wilderness.
 
-The *Ponder* skill is used to think through a puzzle or problem, potentially gaining a hint from the Storyteller.
+#### Charm Abilities
 
-#### Charm Skills
+The skills associated with Charm are _Perform_ and _Discern_.
 
-The skills associated with Charm are *Speak*, *Perform*, and *Befriend*.~~~~
+The _Perform_ skill is used for any sort of performance, be it using a musical instrument, making a disguise more convincing, or giving a motivating speech.
 
-Character Background
+The _Discern_ skill is used to determine someone else's motivations, or tell when someone is trying to hide something.
+
+#### Making an Ability Check
+
+Making an ability check is a lot like making an attribute check. The main difference is that, for each level of skill you have with an ability, you get to roll one more die. No matter how many dice you roll, _you only add the two highest values_. For example, our Boatery friend Dougbert has a _Charm_ modifier of **+2**, and has a _Perform_ skill level of 2. When he tries to impress some Torrborans with his whistleharp skills, the Storyteller tells him to make a _Perform_ check. He rolls 4 dice, the 2 base dice and 2 extra from his _Perform_ skill level. He rolls a **2**, a **6**, a **2**, and a **4**. He takes the 2 highest values, the **4** and the **6**, and adds his _Charm_ modifier for a total of **12**, a rousing performance!
+
