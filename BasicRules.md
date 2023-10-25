@@ -52,7 +52,7 @@ _Charm_ is a measurement of how well your character understands other people. A 
 
 #### Making an Attribute Check
 
-If the Storyteller asks you to make an "Attribute Check," you'll roll 2 dice, add their values together, then add your attribute modifier. For example, Dougbert of the Boatery Guild has an _Agility_ modifier of **+3**, but a _Wit_ modifier of **-1**. As he's walking along a forest trail, the Storyteller asks him to make a _Wit_ check to see if he notices a trap. Dougbert rolls a **2** and a **5**, for a total of **6**. He doesn't notice the trap, and steps right on it! The Storyteller then asks him to make an _Agility_ check to see if he can dodge out of the way. He rolls a **3** and a **4**, for a total of 10! He's able to jump out under a falling log that would have crushed him flatter than a Digtoad's dinner.
+If the Storyteller asks you to make an "Attribute Check," you'll roll 2 dice, add their values together, then add your attribute modifier. For example, if a character has a _Wit_ modifier of **+3** and the Storyteller asks them to make a _Wit_ check to see if they notice a trap, they would roll 2 dice, add them together, then add their _Wit_ modifier. If they roll a **2** and a **5**, the total value for their check would be **10**.
 
 ### Abilities
 
@@ -92,5 +92,7 @@ The _Discern_ skill is used to determine someone else's motivations, or tell whe
 
 #### Making an Ability Check
 
-Making an ability check is a lot like making an attribute check. The main difference is that, for each level of skill you have with an ability, you get to roll one more die. No matter how many dice you roll, _you only add the two highest values_. For example, our Boatery friend Dougbert has a _Charm_ modifier of **+2**, and has a _Perform_ skill level of 2. When he tries to impress some Torrborans with his whistleharp skills, the Storyteller tells him to make a _Perform_ check. He rolls 4 dice, the 2 base dice and 2 extra from his _Perform_ skill level. He rolls a **2**, a **6**, a **2**, and a **4**. He takes the 2 highest values, the **4** and the **6**, and adds his _Charm_ modifier for a total of **12**, a rousing performance!
+Making an ability check is a lot like making an attribute check. The main difference is that, for each level of skill you have with an ability, you get to roll one more die, keeping the highest two.
+
+For example, if a character has a _Charm_ modifier of **+1**, and a _Perform_ skill level of **2**, they would roll 4 dice, when asked to make a _Perform_ check, the 2 base dice and 2 extra from his _Perform_ skill level. If they roll a **2**, a **6**, a **2**, and a **4**, they would take the 2 highest values, the **4** and the **6**, and adds their _Charm_ modifier for a total of **11**, a rousing performance!
 
