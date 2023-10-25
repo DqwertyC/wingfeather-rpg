@@ -134,15 +134,11 @@ Depending on what background your character has, they may get along more natural
 
 ### Training
 
-Each background comes with different training that will increase some of your attribute modifiers and skill levels. Each background will provide **+2** to one attribute, **+1** to another attribute, **2** levels in one skill, and **1** level in two other skills.
+Each background comes with different training that will increase some of your attribute modifiers and skill levels. Each background will provide **+2** to one attribute, **+1** to another attribute, **2** levels in one skill, and **1** level in two other skills. Each background also comes with one ability.
 
 ### Equipment
 
 Each background provides starting equipment for the character, as well as **2** skill levels for a tool or weapon. For example, the Strander background provides a pair of _Daggers (AG)_, and **2** skill levels when using those daggers, while the Houndry Guild background provides a _Dog Whistle (CH)_ and **2** skill levels when using the whistle.
-
-### Abilities
-
-Each background also provides an Ability from the list of abilities.
 
 ---
 
