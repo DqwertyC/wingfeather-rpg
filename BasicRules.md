@@ -96,7 +96,7 @@ In addition to the skills above, characters can gain skill levels for different 
 
 Making an skill check is a lot like making an attribute check. The main difference is that, for each level you have in a skill, you get to roll one extra die, always keeping the highest two.
 
-For example, if a character has a _Charm_ modifier of **+1**, and a _Perform_ skill level of **2**, they would roll 4 dice, when asked to make a _Perform_ check, the 2 base dice and 2 extra from his _Perform_ skill level. If they roll a **2**, a **6**, a **2**, and a **4**, they would take the 2 highest values, the **4** and the **6**, and adds their _Charm_ modifier for a total of **11**, a rousing performance!
+For example, if a character has a _Charm_ modifier of **+1**, and a _Perform_ skill level of **2**, they would roll 4 dice total when asked to make a _Perform_ check. If they roll a **2**, a **6**, a **2**, and a **4**, they would take the 2 highest values, the **4** and the **6**, and adds their _Charm_ modifier for a total of **11**, a rousing performance!
 
 ## Abilities
 
