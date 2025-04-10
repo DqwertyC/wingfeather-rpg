@@ -100,21 +100,50 @@ For example, if a character has a _Charm_ modifier of **+1**, and a _Perform_ sk
 
 ## Actions
 
-Actions are descriptions of things that your character can do, and usually will require making a check of some sort. 
+Actions are descriptions of things that your character can do, and usually will require making a check of some sort. There are a few actions that anyone can take, described below. As your character progresses and gains more Expertise, they'll unlock new Actions.
 
-## Progression
+Each action has an associated number of Action Points it takes to use that action. While the rules are more strict when in an Encounter, generally a character can use at most three Action Points before it's time for other characters to have a turn describing what they do.
 
-As they continue through their adventure, characters will gain bonuses to Skills and Attributes, and unlock new available Actions, based on their background, experiences, and training.
+### Action List
 
-There are three main routes for characters to progress: T.H.A.G.S, [combat], and [life skills]. Each route has different options and different levels of expertise. When the storyteller decides characters have had enough experience or training to progress, they can choose to progress any of their chosen routes to the next tier of expertise.
+For a full list of Actions, see Appendix A (Actions). Below are the actions available to all characters, regardless of expertise.
+
+#### Move
+Cost: 1 Action Point
+Move up to 5+AG spaces. This can be distributed throughout your turn - you can take other Actions in the middle of this movement.
+
+#### Attack
+Cost: 1 Action Point
+Using a weapon or your bare hands, make an attack against an enemy in range. Can only be used once per turn.
+
+#### Focused Attack
+Cost: 2 Action Points
+Using a weapon or your bare hands, make an attack against an enemy in range. Roll 1 extra die when making your attack check. Can only be used once per turn.
+
+#### Defend
+Cost: 1 Action Point
+Prepare yourself for an incoming attack. For the next round, roll 1 extra die when making a defense check.
+
+#### Default Item Use
+Cost: 1 Action Point
+Use an item or tool for its intended purpose, such as using a crowbar to open a crate or a key to open a lock.
+
+#### Improvised Item Use
+Cost: 2 Action Points
+Use an item or tool for something other than its intended purpose.
+
+## Expertise
+
+As they continue through their adventure, characters will gain bonuses to Skills and Attributes, and unlock new available Actions, based on their background, experiences, and training. These bonuses can be earned through gaining Expertise in different areas.
+
+There are three main areas that a character can gain expertise in: T.H.A.G.S, Fighting Style, and Vocation. 
+Your character will choose a T.H.A.G and a Fighting Style to focus on at the start of their adventure. Depending on their Background, they might gain bonuses to these, or might gain a level of Expertise in a given Vocation.
 
 ### T.H.A.G.S.
 
 [This section is a work in progress]  
 
-The T.H.A.G.S are the Three Honored and Great Subjects: Word, Form, and Song. During character creation, 
-
-Each character has a T.H.A.G that they specialize in, either Word, Form, or Song. Throughout their adventure, the character will gain new abilities depending on which T.H.A.G they chose.
+The T.H.A.G.S are the Three Honored and Great Subjects: Word, Form, and Song. Throughout their adventure, the character will gain new abilities depending on which T.H.A.G they chose to focus on.
 
 #### Word
 
@@ -128,11 +157,11 @@ Characters focusing on Form gain **+1** _Agility_, as well as a set of drawing u
 
 Characters focusing on Song gain **+1** _Charm_, as well as a musical instrument of their choice. They gain **1** level in the _Perform_ skill.
 
-### [Combat Skills]
+### Fighting Style
 
 [This section is a work in progress]  
 
-The [Combat Skills] are skills and abilities that will help characters when it's time to fight.
+Fighting Styles are different ways players might approach combat. Even if you're not planning on doing much fighting, 
 
 #### Sneakery
 
@@ -142,11 +171,10 @@ The [Combat Skills] are skills and abilities that will help characters when it's
 
 #### Punchery
 
-### [Lifes Skills]
-
+### Vocation
 [This section is a work in progress]  
 
-The [Life Skills] are skills and abilities that will help characters in day-to-day life, and may come in helpful in different ways through their adventure. Depending on their background, characters may start with some experience in a given life skill.
+Your character's Vocation contains skills and abilities that will help characters in day-to-day life, and may come in helpful in different ways through their adventure. Depending on their background, characters may start with some expertise in a given Vocation.
 
 #### Skill A
 
