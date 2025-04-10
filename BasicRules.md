@@ -98,31 +98,59 @@ Making an skill check is a lot like making an attribute check. The main differen
 
 For example, if a character has a _Charm_ modifier of **+1**, and a _Perform_ skill level of **2**, they would roll 4 dice total when asked to make a _Perform_ check. If they roll a **2**, a **6**, a **2**, and a **4**, they would take the 2 highest values, the **4** and the **6**, and adds their _Charm_ modifier for a total of **11**, a rousing performance!
 
-## Abilities
+## Actions
 
-```()
-This section is a work in progress
-The goal for abilities is to be somewhat like feats in D&D. They will primarily be new actions that the character can take, using their existing skills and attributes.
-Some abilities will require the character to be focusing on a specific T.H.A.G.
-Each Background will also provide an Ability.
-```
+Actions are descriptions of things that your character can do, and usually will require making a check of some sort. 
 
-## T.H.A.G.S
+## Progression
+
+As they continue through their adventure, characters will gain bonuses to Skills and Attributes, and unlock new available Actions, based on their background, experiences, and training.
+
+There are three main routes for characters to progress: T.H.A.G.S, [combat], and [life skills]. Each route has different options and different levels of expertise. When the storyteller decides characters have had enough experience or training to progress, they can choose to progress any of their chosen routes to the next tier of expertise.
+
+### T.H.A.G.S.
 
 [This section is a work in progress]  
+
+The T.H.A.G.S are the Three Honored and Great Subjects: Word, Form, and Song. During character creation, 
+
 Each character has a T.H.A.G that they specialize in, either Word, Form, or Song. Throughout their adventure, the character will gain new abilities depending on which T.H.A.G they chose.
 
-### Word
+#### Word
 
 Characters focusing on Word gain **+1** _Wit_, as well as a journal and set of writing utensils. They gain **1** level in the _Ponder_ skill.
 
-### Form
+#### Form
 
 Characters focusing on Form gain **+1** _Agility_, as well as a set of drawing utensils. They gain **1** level in the _Search_ skill.
 
-### Song
+#### Song
 
 Characters focusing on Song gain **+1** _Charm_, as well as a musical instrument of their choice. They gain **1** level in the _Perform_ skill.
+
+### [Combat Skills]
+
+[This section is a work in progress]  
+
+The [Combat Skills] are skills and abilities that will help characters when it's time to fight.
+
+#### Sneakery
+
+#### Stabbery
+
+#### Shootery
+
+#### Punchery
+
+### [Lifes Skills]
+
+[This section is a work in progress]  
+
+The [Life Skills] are skills and abilities that will help characters in day-to-day life, and may come in helpful in different ways through their adventure. Depending on their background, characters may start with some experience in a given life skill.
+
+#### Skill A
+
+#### Skill B
 
 ## Backgrounds
 
